@@ -1,6 +1,6 @@
-﻿namespace World_Email2
+﻿namespace VehicleSearch
 {
-    partial class Form1
+    partial class frmVehicleSearch
     {
         /// <summary>
         /// Required designer variable.
@@ -28,9 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // frmVehicleSearch
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.Name = "frmVehicleSearch";
+            this.Text = "Vehicle Search";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

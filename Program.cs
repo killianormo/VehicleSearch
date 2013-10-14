@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace World_Email2
+namespace VehicleSearch
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace World_Email2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmWorldEmail());
+            Application.Run(new frmVehicleSearch());
         }
     }
 }

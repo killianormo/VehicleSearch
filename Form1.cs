@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace World_Email2
+namespace VehicleSearch
 {
-    public partial class Form1 : Form
+    public partial class frmVehicleSearch : Form
     {
-        public Form1()
+        public frmVehicleSearch()
         {
             InitializeComponent();
         }

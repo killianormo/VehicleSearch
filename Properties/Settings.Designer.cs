@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace World_Email2.Properties
+namespace VehicleSearch.Properties
 {
 
 
